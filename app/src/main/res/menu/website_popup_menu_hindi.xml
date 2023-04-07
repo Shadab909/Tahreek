@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/first"
+        android:title="Siyasat Daily"/>
+
+    <item
+        android:id="@+id/second"
+        android:title="The Wire"/>
+
+    <item
+        android:id="@+id/third"
+        android:title="Quint Hindi"/>
+
+    <item
+        android:id="@+id/fourth"
+        android:title="News 24"/>
+
+    <item
+        android:id="@+id/fifth"
+        android:title="NDTV"/>
+</menu>

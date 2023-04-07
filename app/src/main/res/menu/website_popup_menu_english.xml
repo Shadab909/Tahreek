@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/first"
+        android:title="Muslim Mirror"/>
+
+    <item
+        android:id="@+id/second"
+        android:title="Siyasat Daily"/>
+
+
+    <item
+        android:id="@+id/three"
+        android:title="The Cognate"/>
+
+    <item
+        android:id="@+id/four"
+        android:title="Milli Gazette"/>
+
+    <item
+        android:id="@+id/five"
+        android:title="NDTV"/>
+
+
+
+</menu>
